@@ -53,6 +53,8 @@
     <div class="container">
         <h1>Imágenes de Shiba Inu</h1>
         <?php
+            //Comentario añadido para testear GitHub
+            
             // Función para obtener una nueva imagen de Shiba Inu
             function obtenerNuevaImagen() {
                 // Se realiza la petición a la API de shibe.online para obtener una imagen de shiba
